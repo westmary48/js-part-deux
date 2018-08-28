@@ -43,7 +43,7 @@ console.log(hiDiv);
 
 const pie = 'peach';
 
-console.log('pie length: ' pie.length); //5
+console.log('pie length: ', pie.length); //5
 console.log('#3', pie.charAt(2));  //a
 console.log('indexof cat', pie.indexOf('cat'));  //-1
 console.log('indexof pea', pie.indexOf('pea'));  //0
